@@ -17,3 +17,6 @@
 * Sabrina = sabrina@developintelligence.com 
 * Stephanie = stephanie-mills@pluralsight.com
 * email Sabrina and Stephanie if you need access to videos beyond Day 1
+
+## Resources
+* https://godbolt.org/ (Compiler explorer)
