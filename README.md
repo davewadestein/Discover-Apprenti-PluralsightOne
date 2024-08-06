@@ -20,3 +20,4 @@
 
 ## Resources
 * https://godbolt.org/ (Compiler explorer)
+* https://pythontutor.com/ (Python Tutor)
