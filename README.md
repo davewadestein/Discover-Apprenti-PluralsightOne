@@ -1,5 +1,8 @@
 # Discover-Apprenti-PluralsightOne
 
+## Day 1 Recording
+* https://zoom.us/rec/share/c-A8VM-Sc1kFMeUzM8fT0rPAB3Xe7rnYZ0Ob5jdTRd0hsjs9jah3yy1fNP5kX0mf.SK_FL_0Iw6xi5haY
+ 
 ## Tuesday Poll
 * https://xoyondo.com/op/0scrd8cpyzzg3b3
 
