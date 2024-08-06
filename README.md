@@ -11,3 +11,9 @@
   
 ## Lunch
 * 1-2 Central time (to coincide with when Discover starts serving lunch)
+
+## Contact Info
+* Me = dave@developintelligence.com
+* Sabrina = sabrina@developintelligence.com 
+* Stephanie = stephanie-mills@pluralsight.com
+* email Sabrina and Stephanie if you need access to videos beyond Day 1
