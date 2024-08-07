@@ -3,8 +3,8 @@
 ## Day 1 Recording
 * https://zoom.us/rec/share/c-A8VM-Sc1kFMeUzM8fT0rPAB3Xe7rnYZ0Ob5jdTRd0hsjs9jah3yy1fNP5kX0mf.SK_FL_0Iw6xi5haY
  
-## Tuesday Poll
-* https://xoyondo.com/op/0scrd8cpyzzg3b3
+## Results of Tuesday Poll
+<img width="695" alt="Screenshot 2024-08-06 at 10 22 57 PM" src="https://github.com/user-attachments/assets/91ab7b68-f936-40e1-a261-c15428225dd7">
 
 ## Materials
 * https://github.com/DevelopIntelligenceBoulder/Apprenti-Learn-to-Code-Python
