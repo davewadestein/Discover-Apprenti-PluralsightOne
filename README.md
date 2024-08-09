@@ -31,4 +31,4 @@
 * https://godbolt.org/ (Compiler explorer)
 * https://pythontutor.com/ (Python Tutor)
 * https://peps.python.org/pep-0008/ (PEP-8 or Python Style Guide)
-* https://www.tiobe.com/tiobe-index/ (Monthy index of programming language popularity)
+* https://www.tiobe.com/tiobe-index/ (Monthly index of programming language popularity)
