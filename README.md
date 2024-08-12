@@ -2,7 +2,7 @@
 
 ## Week 1 Survey
 * https://www.surveymonkey.com/r/KRKZC6V
-* 
+  
 ## Answer to Question about Assessments
 * The knowledge checks are only three times during the program:
   * After week 5
