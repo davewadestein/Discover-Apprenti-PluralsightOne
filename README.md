@@ -1,5 +1,9 @@
 # Discover-Apprenti-PluralsightOne
 
+## "Let's slow this bird down"
+* survey makes it clear that I've been going too fast, at least for some of you
+* I propose we review and do more exercises with variables and if statements, then come back to loops
+  
 ## Week 1 Survey
 * https://www.surveymonkey.com/r/KRKZC6V
   
@@ -13,12 +17,6 @@
 
 ## Materials
 * https://github.com/DevelopIntelligenceBoulder/Apprenti-Learn-to-Code-Python
-  
-## Day 1 Recording
-* https://zoom.us/rec/share/c-A8VM-Sc1kFMeUzM8fT0rPAB3Xe7rnYZ0Ob5jdTRd0hsjs9jah3yy1fNP5kX0mf.SK_FL_0Iw6xi5haY
- 
-## Results of Tuesday Poll
-<img width="695" alt="Screenshot 2024-08-06 at 10 22 57 PM" src="https://github.com/user-attachments/assets/91ab7b68-f936-40e1-a261-c15428225dd7">
   
 ## Lunch
 * 1-2 Central time (to coincide with when Discover starts serving lunch)
