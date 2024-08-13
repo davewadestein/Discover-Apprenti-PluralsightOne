@@ -1,0 +1,18 @@
+# human steps for guessing game
+# 1. pick a number between 1 and 100
+# 2. say "guess the number I picked, it's between 1 and 100"
+# 3. if guess is bigger than the number you picked "too high"
+# 4. if guess is smaller than the number you picked "too low"
+# 5. if guess is right "got it!" and game is over
+# 6. go back to step 2
+
+# computer steps for second lab
+# 1. generate a random number between 1 and 100
+# 1a. until user guesses the number:
+# 2.      get input from user "guess the number I picked, it's between 1 and 100"
+# 3.      if guess > number
+# 3a.        "too high"
+# 4.      elif guess < number
+# 4a.        "too low"
+# 5.      else 
+# 5a.        "got it!"
