@@ -1,7 +1,7 @@
 # Discover-Apprenti-PluralsightOne
 
-## Wednesday Poll
-* https://xoyondo.com/op/mrsb0mmfohmwnmw
+## Thursday Poll
+* https://xoyondo.com/op/6vizcmrtjosx9mu
 
 ## "Let's slow this bird down"
 * survey makes it clear that I've been going too fast, at least for some of you
