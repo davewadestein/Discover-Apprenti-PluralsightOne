@@ -1,8 +1,5 @@
 # Discover-Apprenti-PluralsightOne
 
-## Thursday Poll
-* https://xoyondo.com/op/6vizcmrtjosx9mu
-
 ## "Let's slow this bird down"
 * survey makes it clear that I've been going too fast, at least for some of you
 * I propose we review and do more exercises with variables and if statements, then come back to loops
