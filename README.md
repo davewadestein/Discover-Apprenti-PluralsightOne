@@ -1,26 +1,12 @@
 # Discover-Apprenti-PluralsightOne
 
-## "Let's slow this bird down"
-* survey makes it clear that I've been going too fast, at least for some of you
-* I propose we review and do more exercises with variables and if statements, then come back to loops
-  
-## Week 1 Survey
-* https://www.surveymonkey.com/r/KRKZC6V
-  
-## Answer to Question about Assessments
-* The knowledge checks are only three times during the program:
-  * After week 5
-  * After week 9
-  * After week 16
-* They're on survey monkey, so when the time comes, we'll give the link to the instructor to deliver in class
-* There will be some Skill IQs, but the first one isn't due until August 19th. They'll get more information next week about that...
+## Resources for further study
+* Coding Bat – coding exercises https://codingbat.com/python
+  * (**NOTE:** that this website has you write code in a *function*, which we didn't get to, BUT, all you have to do is write the code inside the function that they've already started for you, so you don't really need to understand the function header to try it out
 
 ## Materials
 * https://github.com/DevelopIntelligenceBoulder/Apprenti-Learn-to-Code-Python
   
-## Lunch
-* 1-2 Central time (to coincide with when Discover starts serving lunch)
-
 ## Contact Info
 * Me = dave@developintelligence.com
 * Sabrina = sabrina@developintelligence.com 
